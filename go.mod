@@ -1,5 +1,5 @@
 module oneeleven-backend-go
 
-go 1.25.1
+go 1.22
 
 require github.com/julienschmidt/httprouter v1.3.0
